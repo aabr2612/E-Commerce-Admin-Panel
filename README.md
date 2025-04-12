@@ -11,7 +11,7 @@ A React-based admin panel for managing products and orders in an e-commerce syst
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- 
+
 ## Features
 
 - **Product Management**:
