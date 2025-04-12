@@ -2,6 +2,16 @@
 
 A React-based admin panel for managing products and orders in an e-commerce system. This application allows administrators to add products, view and manage product listings, and track order statuses with a clean, responsive user interface. Built with modern tools like Vite, Tailwind CSS, and React Router, it integrates with a backend API for seamless data management.
 
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- 
 ## Features
 
 - **Product Management**:
@@ -103,4 +113,4 @@ A React-based admin panel for managing products and orders in an e-commerce syst
 
 For questions or feedback, feel free to reach out:
 - GitHub: [aabr2612](https://github.com/aabr2612)
-- Email: aabr2612@example.com
+- Email: aabr2612@gmail.com
